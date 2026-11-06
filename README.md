@@ -1,30 +1,146 @@
-# 💫 About Me:
-I’m currently working CampusRadar, an opportunity finder for student.<br>I am a sophomore at IIT Gandhinagar.
+ <div align="center">
 
+<a href="https://ashu999gold-dot.github.io">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,35:241044,70:49318a,100:111827&text=ASHUTOSH&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Curious%20Mind%20%E2%80%A2%20Builder%20at%20Heart%20%E2%80%A2%20Tech%20Enthusiast&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Ashutosh profile banner"/>
+</a>
 
-## 🌐 Portfolio:
-[![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://ashu999gold-dot.github.io)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Mechanical+Engineering+%40+IIT+Gandhinagar;CSE+Minor+%7C+Software+%26+Technology;Building+Ideas+Into+Real+Projects;Exploring+AI%2C+Web+Dev+%26+Creative+Tech;Always+Learning.+Always+Experimenting." alt="Typing SVG"/>
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its__ashuhere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-61bb1a379) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashu999gold@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ashu999gold-dot&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ashu999gold-dot&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashu999gold-dot&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://ashu999gold-dot.github.io">
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:ashu999gold@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Connect-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashu999gold-dot&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashu999gold-dot&limit=5&theme=neon&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ashu999gold-dot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami` 👨‍💻
+
+Hey! I'm **Ashutosh**, an undergraduate at **IIT Gandhinagar**, pursuing Mechanical Engineering with a minor in Computer Science and Engineering.
+
+I'm fascinated by technology and the endless possibilities it creates. I enjoy exploring how things work, experimenting with new tools, and turning ideas into actual projects.
+
+I'm particularly interested in:
+
+- 💻 **Software Development** — Building applications, websites and useful digital tools.
+- 🤖 **Artificial Intelligence** — Exploring AI-powered systems and intelligent applications.
+- 🎨 **Creative Technology** — Interactive websites, animations and immersive digital experiences.
+- ⚙️ **Engineering & Technology** — Connecting engineering concepts with practical software solutions.
+- 🚀 **Experimentation** — Learning new technologies by building things with them.
+
+> I don't just want to use technology. I want to understand it, experiment with it, and build something interesting with it.
+
+---
+
+## ⚡ What I'm Building
+
+<div align="center">
+
+| Project | What it's about |
+|:---:|---|
+| 🔭 **CampusRadar** | An opportunity discovery platform helping Indian college students find internships, fellowships, scholarships and hackathons. |
+| 🧠 **AI Advisor for Students** | An AI-powered student assistant with personalized learning, planning and productivity workflows. |
+| 📅 **SlotSync** | An IITGN timetable generator with course selection, clash detection and timetable exports. |
+| 🎵 **PULSE** | A real-time music visualizer exploring audio processing and interactive visualizations. |
+| 🐍 **AlphaSnake** | A competitive Snake bot using pathfinding, territory evaluation and strategic decision-making. |
+| 🃏 **UNO Card Game** | A browser-based UNO game featuring game logic, AI opponents and interactive animations. |
+| 🍽️ **IITGN Mess Menu** | A digital mess-menu project for the IIT Gandhinagar community. |
+
+</div>
+
+<div align="center">
+
+<a href="https://timetabx.lovable.app">
+  <img src="https://img.shields.io/badge/SlotSync-Live%20Project-8B5CF6?style=for-the-badge" alt="SlotSync"/>
+</a>
+<a href="https://ashutosh-kumar-61bb1a379">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+
+## 🧰 My Tech Toolbox
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" alt="Programming languages"/>
+
+### Frontend & Creative Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,threejs&theme=dark" alt="Frontend technologies"/>
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,firebase,supabase,mysql&theme=dark" alt="Backend technologies"/>
+
+### AI, Data & Scientific Computing
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI technologies"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,playwright,vscode,vercel&theme=dark" alt="Development tools"/>
+
+</div>
+
+---
+
+## 🧪 Currently Exploring
+
+- Building better software products and user experiences.
+- AI-powered applications and intelligent workflows.
+- Modern frontend development and interactive 3D experiences.
+- Full-stack development and backend architecture.
+- New tools, frameworks and technologies worth experimenting with.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashu999gold-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu999gold-dot&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub streak"/>
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu999gold-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
+
+</div>
+
+---
+
+## 🌐 Find Me Around the Internet
+
+<div align="center">
+
+<a href="https://ashu999gold-dot.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/ashutosh-kumar-61bb1a379">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/its__ashuhere">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:ashu999gold@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 💭 A little reminder
+
+*Stay curious. Keep building. Never stop experimenting.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:49318a,100:09090f&height=110&section=footer" width="100%" alt="Footer"/>
+
+</div>
