@@ -1,146 +1,243 @@
  <div align="center">
 
 <a href="https://ashu999gold-dot.github.io">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,35:241044,70:49318a,100:111827&text=ASHUTOSH&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Curious%20Mind%20%E2%80%A2%20Builder%20at%20Heart%20%E2%80%A2%20Tech%20Enthusiast&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Ashutosh profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:050510,25:190B35,55:4B0082,80:00D9FF,100:FF00C8&text=ASHUTOSH&fontColor=FFFFFF&fontSize=70&fontAlignY=42&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EXPERIMENT&descSize=17&descAlignY=63&animation=twinkling" width="100%" alt="Ashutosh cyberpunk banner"/>
 </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Mechanical+Engineering+%40+IIT+Gandhinagar;CSE+Minor+%7C+Software+%26+Technology;Building+Ideas+Into+Real+Projects;Exploring+AI%2C+Web+Dev+%26+Creative+Tech;Always+Learning.+Always+Experimenting." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=Mechanical+Engineering+%40+IIT+Gandhinagar;CSE+Minor+%7C+Software+Explorer;Building+Ideas+Into+Digital+Experiences;AI+%2B+Web+Development+%2B+Creative+Tech;Curiosity+is+my+favourite+superpower." alt="Animated introduction"/>
 
 <br/>
 
 <a href="https://ashu999gold-dot.github.io">
-  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/ENTER%20MY%20PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Visit portfolio"/>
 </a>
 <a href="mailto:ashu999gold@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Connect-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/CONNECT%20WITH%20ME-FF00C8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-</div>
-
----
-
-## `whoami` 👨‍💻
-
-Hey! I'm **Ashutosh**, an undergraduate at **IIT Gandhinagar**, pursuing Mechanical Engineering with a minor in Computer Science and Engineering.
-
-I'm fascinated by technology and the endless possibilities it creates. I enjoy exploring how things work, experimenting with new tools, and turning ideas into actual projects.
-
-I'm particularly interested in:
-
-- 💻 **Software Development** — Building applications, websites and useful digital tools.
-- 🤖 **Artificial Intelligence** — Exploring AI-powered systems and intelligent applications.
-- 🎨 **Creative Technology** — Interactive websites, animations and immersive digital experiences.
-- ⚙️ **Engineering & Technology** — Connecting engineering concepts with practical software solutions.
-- 🚀 **Experimentation** — Learning new technologies by building things with them.
-
-> I don't just want to use technology. I want to understand it, experiment with it, and build something interesting with it.
-
----
-
-## ⚡ What I'm Building
-
-<div align="center">
-
-| Project | What it's about |
-|:---:|---|
-| 🔭 **CampusRadar** | An opportunity discovery platform helping Indian college students find internships, fellowships, scholarships and hackathons. |
-| 🧠 **AI Advisor for Students** | An AI-powered student assistant with personalized learning, planning and productivity workflows. |
-| 📅 **SlotSync** | An IITGN timetable generator with course selection, clash detection and timetable exports. |
-| 🎵 **PULSE** | A real-time music visualizer exploring audio processing and interactive visualizations. |
-| 🐍 **AlphaSnake** | A competitive Snake bot using pathfinding, territory evaluation and strategic decision-making. |
-| 🃏 **UNO Card Game** | A browser-based UNO game featuring game logic, AI opponents and interactive animations. |
-| 🍽️ **IITGN Mess Menu** | A digital mess-menu project for the IIT Gandhinagar community. |
-
-</div>
-
-<div align="center">
-
-<a href="https://timetabx.lovable.app">
-  <img src="https://img.shields.io/badge/SlotSync-Live%20Project-8B5CF6?style=for-the-badge" alt="SlotSync"/>
-</a>
-<a href="https://ashutosh-kumar-61bb1a379">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-## 🧰 My Tech Toolbox
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" alt="Programming languages"/>
-
-### Frontend & Creative Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,threejs&theme=dark" alt="Frontend technologies"/>
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,django,flask,firebase,supabase,mysql&theme=dark" alt="Backend technologies"/>
-
-### AI, Data & Scientific Computing
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI technologies"/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,playwright,vscode,vercel&theme=dark" alt="Development tools"/>
-
-</div>
-
----
-
-## 🧪 Currently Exploring
-
-- Building better software products and user experiences.
-- AI-powered applications and intelligent workflows.
-- Modern frontend development and interactive 3D experiences.
-- Full-stack development and backend architecture.
-- New tools, frameworks and technologies worth experimenting with.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashu999gold-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu999gold-dot&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub streak"/>
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu999gold-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
+<img src="https://komarev.com/ghpvc/?username=ashu999gold-dot&label=PROFILE%20VISITORS&color=8A2BE2&style=flat-square" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## 🌐 Find Me Around the Internet
+## `> SYSTEM.INFO`
+
+```yaml
+name: Ashutosh Kumar
+university: IIT Gandhinagar
+degree: BTech Mechanical Engineering
+minor: Computer Science and Engineering
+current_mode: Building & Experimenting
+interests:
+  - Software Development
+  - Artificial Intelligence
+  - Interactive Web Experiences
+  - Creative Technology
+  - Engineering
+status: Always Learning
+```
+
+Hey! I'm an undergraduate at **IIT Gandhinagar**, exploring the intersection of software, AI, engineering and creative technology.
+
+I enjoy building things that are not just functional, but interesting to use. From AI-powered applications to interactive websites, I like experimenting with ideas and turning them into real projects.
+
+**My philosophy:** Learn something new. Build something useful. Break things. Understand why. Improve.
+
+---
+
+## `> PROJECT_DATABASE`
+
+<details open>
+<summary><b>⚡ Explore my projects</b> — click to expand or collapse</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ CampusRadar
+
+**Opportunity discovery platform**
+
+Helping Indian college students discover internships, fellowships, scholarships and hackathons through source-backed information.
+
+`NEXT.JS` `TYPESCRIPT` `SUPABASE`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Advisor
+
+**AI-powered student assistant**
+
+A student-focused command center with intelligent learning, planning and productivity workflows.
+
+`REACT` `TYPESCRIPT` `GEMINI` `FIREBASE`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 SlotSync
+
+**IITGN timetable generator**
+
+Course selection, timetable generation, clash detection and useful export options.
+
+`REACT` `TYPESCRIPT` `SUPABASE`
+
+<a href="https://timetabx.lovable.app">↗ Open live project</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 PULSE
+
+**Music visualizer**
+
+Real-time audio visualization with different visual modes and audio-reactive effects.
+
+`JAVASCRIPT` `WEB AUDIO API` `CANVAS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 AlphaSnake
+
+**Competitive Snake bot**
+
+Pathfinding, territory evaluation, opponent prediction and strategic decision-making.
+
+`PYTHON` `ALGORITHMS` `BFS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🃏 UNO Card Game
+
+**Browser-based card game**
+
+Game logic, AI opponents, interactive animations and audio effects.
+
+`HTML` `CSS` `JAVASCRIPT`
+
+<a href="https://ashu999gold-dot.github.io/uno-card-game/">↗ Play UNO</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ IITGN Mess Menu
+
+**Digital mess-menu project**
+
+A digital interface for accessing IIT Gandhinagar mess-menu information.
+
+<a href="https://iitgn-mess-menu.lovable.app">↗ Open live project</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 Personal Portfolio
+
+**An immersive digital experience**
+
+An experimental portfolio exploring interactive 3D environments, motion and modern web design.
+
+<a href="https://ashu999gold-dot.github.io">↗ Explore portfolio</a>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## `> TECH_STACK`
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" alt="Languages"/>
+
+**FRONTEND & CREATIVE DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,threejs&theme=dark" alt="Frontend"/>
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,firebase,supabase,mysql&theme=dark" alt="Backend"/>
+
+**AI & DATA**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and data"/>
+
+**TOOLS & PLATFORMS**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,playwright,vscode,vercel&theme=dark" alt="Tools"/>
+
+</div>
+
+---
+
+## `> CURRENTLY.EXPLORING`
+
+<details>
+<summary><b>🔮 What I'm learning and experimenting with</b></summary>
+
+- Full-stack software development.
+- AI-powered applications and intelligent workflows.
+- Interactive 3D websites and creative frontend experiences.
+- Modern web architectures and backend systems.
+- Better engineering practices, testing and performance optimization.
+
+</details>
+
+---
+
+## `> GITHUB_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashu999gold-dot&show_icons=true&hide_border=true&bg_color=050510&title_color=00F5FF&icon_color=FF00C8&text_color=E0E0FF&rank_icon=github" width="49%" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu999gold-dot&layout=compact&hide_border=true&bg_color=050510&title_color=00F5FF&text_color=E0E0FF" width="49%" alt="Most used languages"/>
+
+</div>
+
+---
+
+## `> CONNECT_TO_NETWORK`
 
 <div align="center">
 
 <a href="https://ashu999gold-dot.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/ashutosh-kumar-61bb1a379">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/its__ashuhere">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-FF00C8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:ashu999gold@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+**`CONNECTION ESTABLISHED // KEEP BUILDING.`**
 
-### 💭 A little reminder
-
-*Stay curious. Keep building. Never stop experimenting.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:49318a,100:09090f&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,35:190B35,70:8A2BE2,100:00D9FF&height=120&section=footer" width="100%" alt="Cyberpunk footer"/>
 
 </div>
